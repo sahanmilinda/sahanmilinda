@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahanmilinda
-- 👀 I’m interested in games
-- 🌱 I’m currently learning hacking
+- 👀 I’m interested in gamesDev
+- 🌱 I’m currently learning gameDev
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me ...
 
